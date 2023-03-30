@@ -8,10 +8,10 @@ To Solve various machine learning tasks
 
 ## 2. Regression
   1. [Housing Prices](https://github.com/jeonghojo00/MachineLearning/blob/main/Regression/House_Prices_Advanced_Regression_Techniques.ipynb) <br>
-  * Handling Missing values
-    * Dropped columns that have missing values more than threshold. Dropped rows with missing valeus
-    * Imputed with mean and median for missing values based on distribution of data
-  * Label encoding for categorical values
-  * Model selection through cross validation
-  * Optimization through grid search cv on hyper-parametres of selected model, Gradient Boosting Regressor.
+    * Handling Missing values
+      * Dropped columns that have missing values more than threshold. Dropped rows with missing valeus
+      * Imputed with mean and median for missing values based on distribution of data
+    * Label encoding for categorical values
+    * Model selection through cross validation
+    * Optimization through grid search cv on hyper-parametres of selected model, Gradient Boosting Regressor.
 
