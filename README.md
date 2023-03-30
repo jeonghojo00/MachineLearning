@@ -11,7 +11,7 @@ To Solve various machine learning tasks
     * Handling Missing values <br>
       * Dropped columns that have missing values more than threshold. Dropped rows with missing valeus <br>
       * Imputed with mean and median for missing values based on distribution of data <br>
-  * Label encoding for categorical values <br>
-  * Model selection through cross validation <br>
-  * Optimization through grid search cv on hyper-parametres of selected model, Gradient Boosting Regressor. <br>
+    * Label encoding for categorical values <br>
+    * Model selection through cross validation <br>
+    * Optimization through grid search cv on hyper-parametres of selected model, Gradient Boosting Regressor. <br>
 
